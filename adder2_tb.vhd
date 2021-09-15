@@ -8,7 +8,7 @@ use ieee.numeric_std.all;
 entity adder_tb is
 end adder_tb;
 
-
+--
 architecture TB of adder_tb is
 
     component adder
